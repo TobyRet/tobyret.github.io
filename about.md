@@ -8,4 +8,12 @@ Between 2007 and 2014 I worked client-side in marketing and digital roles and vo
 
 In 2014 I turned my programming hobby into a new career. After graduating from [Makers Academy](http://www.makersacademy.com) I joined the team at [Codurance](http://www.codurance.com) as one of their first Software Developer Apprentices. 
 
+<<<<<<< HEAD
 I'm currently part of the developer team helping to build [Crowdmix](http://www.crowdmix.me).
+=======
+A place to include any other types of information that you'd like to include about yourself.
+
+### Contact me
+
+[email@domain.com](mailto:email@domain.com)
+>>>>>>> fb2f50ba6fab860134c416cc097707da159d8c6f
