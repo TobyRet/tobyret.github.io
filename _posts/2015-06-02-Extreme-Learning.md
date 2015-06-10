@@ -19,9 +19,9 @@ So if you are like me and want to make your learning process more efficient, hav
 ###Define your learning objective
 Borrowing form Behaviour Driven Design will help you here. For example:
 
-As a [Apprentice? Experienced developer? Scrum Master?] 
-I want to [Learn Scala? Learn the Adapter Pattern?]
-So that I can [Define your outcome here]
+As a [<em>Apprentice? Experienced developer? Scrum Master?</em>]<br>
+I want to [<em>Learn Scala? Learn the Adapter Pattern?</em>]<br>
+So that I can [<em>Define your outcome here</em>]<br>
 
 ###Timebox your efforts
 Give yourself 30 minutes to learn everything you can about the subject you have chosen. Bear in mind, attempting to learn a language in 30 minutes is perhaps asking for a little too much so, if your learning objective is substantial break it down into smaller increments. Rather than learn a whole language in 30 minutes, instead narrow the scope of your learning objective - perhaps get to grips with a library, API or perhaps a few select ethods.
