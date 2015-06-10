@@ -12,7 +12,7 @@ At the time of writing this post I am a software apprentice at [Codurance](http:
 
 Given the volume of learning required, and having limited time available to do it, I was really grateful to the crew at 8th Light, lead an awesome workshop on <strong>Extreme Learning</strong> at the Socrates event.
 
-So if you are like me and want to get more bang for your buck out of your study, have a shot at this. The  method outlined below is adapted from 8th Light's workshop with my own additions.
+So if you are like me and want to get more bang for your buck when you study, have a shot at this. The  method outlined below is adapted from 8th Light's workshop with my own additions.
 
 #Extreme Leaning 101
 
