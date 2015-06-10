@@ -12,15 +12,13 @@ Been there right?
 
 Despite your best intentions and following the recommended advice out there (small pull requests and merging to master often), you are bound to come across this issue more often than you’d like.
 
-That being the case, I'd like to share with you a quick 4 step process for handling merge conflicts that was passed onto to me at a time when I had stupidly (yet unintentionally) not heeded the recommended advice.
+That being the case, I'd like to share with you a simple 4 step process for handling merge conflicts. This technique was passed onto to me recently by my colleague Samir at Codurance. Over a period of a week I had been diligently working on a feature branch, resulting in what was to be a rather large pull request. In the meantime, my colleagues had been doing the right thing - merging their small pull requests with the master branch at regular intervals.
 
-Over a period of a week I had been diligently working on a feature branch, resulting in what was to be a rather large pull request. In the meantime, my colleagues had been doing the right thing - merging their small pull requests with the master branch at regular intervals.
+Once I had finished my ticket, I realised my feature branch was way behind. Doing a git merge would be guaranteed to result in a lot of conflicts. I needed the latest changes from master in my feature branch before I could merge my changes back into master.
 
-Once I had finished my ticket, I realised my feature branch was way behind. Doing a git merge would be guaranteed to result in a lot of conflicts. I needed the latest changes form the master branch in my feature branch before I could merge back to master.
+So, without further adieu, here is the 4 step process for handling conflicts.
 
-So, without further adieu, here is a quick 4 step process for handling conflicts.
-
-###Step 1 - Use the right tool for the job
+###Step 1 - Merge vs Rebase? Use the right tool for the job
 If you want merge a feature branch back into your development branch and your code is up to date with master, go for a <strong>git merge</strong>. 
 
 If you are working on a feature branch and you need changes from the main development branch, go for <strong>git rebase</strong>. Because rebase merges every commit individually, conflicts will be served in smaller chunks making them easier to fix and understand.
