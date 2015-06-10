@@ -23,7 +23,7 @@ As a [<em>Apprentice? Experienced developer? Scrum Master?</em>]<br>
 I want to [<em>Learn Scala? Learn the Adapter Pattern?</em>]<br>
 So that I can [<em>Define your outcome here</em>]<br>
 
-Defining a learning outcome ties all your hard work to something tangible. You can look back at the end of the process and decide whether the outcome was achieved or not and why. There is a great quote from Lewis Caroll's Alice in Wonderland that sums this up nicely.
+Defining a learning outcome ties all your hard work to something tangible. You can look back at the end of the process and decide whether the outcome was achieved or not and why. There is a great quote from Lewis Carroll's Alice in Wonderland that sums this up nicely.
 
 > Cat: Where are you going?
 > Alice: Which way should I go?
