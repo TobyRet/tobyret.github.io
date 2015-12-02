@@ -6,7 +6,7 @@ date: 2015-06-13 10:00:00 +00:00
 author: Toby Retallick
 ---
 
-Last weekend I was lucky enough to attend [Socrates UK 2015](http://socratesuk.org), an annual international software craftsmanship gathering set in the scenic surroundings of Farnham, Oxfordshire. If you have not done so, I definitely recommend checkout out this conference, either in England or the other Socrates events taking place across Europe (Germany, Belgium, France ...). 
+Last weekend I was lucky enough to attend [Socrates UK 2015](http://socratesuk.org), an annual international software craftsmanship gathering set in the scenic surroundings of Farnham, Oxfordshire. If you have not done so, I recommend attending this conference, either in England or the other Socrates events taking place across Europe (Germany, Belgium, France ...). 
 
 At the time of writing this post I am a software apprentice at [Codurance](http://www.codurance.com). My <strong>'things to learn'</strong> list grows every day. Java fundamentals, SOLID principles, TDD practices, oh wait … some of the new developers on the project are now using <em>Scala</em>... I want to at least be able to understand their code. <em>[Terraform](http://www.terraform.io)</em> has been coming up in a number of discussions... I want to get my head around that. You get the idea right?
 
@@ -32,7 +32,7 @@ Defining a learning outcome ties all your hard work to something tangible. You c
 > ― Lewis Carroll, Alice in Wonderland
 
 ##Time-box your efforts
-Give yourself <strong>30 minutes</strong> to learn everything you can about the subject you have chosen. Bear in mind, attempting to learn a language in such a short space of time is perhaps asking a little too much. If your learning objective is substantial, break it down into smaller increments. Rather than learn a whole language in 30 minutes, instead narrow the scope of your learning objective. Perhaps get to grips with a particular library, API or even a few select methods.
+Give yourself <strong>30 minutes</strong> to learn everything you can about the subject you have chosen. Bear in mind, attempting to learn a language in such a short space of time is perhaps asking a little too much. If your learning objective is substantial, break it down into smaller goals. Rather than learn a whole language in 30 minutes, instead narrow the scope of your learning objective. Perhaps get to grips with a particular library, API or even a few select methods.
 
 <strong>How does time-boxing help?</strong> If you are time-poor, you are more likely to find 30 minute slots during your day (e.g. your lunch break, commute, before you go to work etc) to dedicate to study than say, an hour or more. Remember also, that the key to Extreme Learning is quality of learning, not quantity. 30 minutes of intense, uninterrupted high quality study is far better than 1 hour of unfocused, interrupted study (How many times do you catch yourself switching off and checking your emails?). That said, 30 minutes is not a long time. If you set a timer, the pressure of the ticking clock should help you perform that much better.
 
