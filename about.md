@@ -6,6 +6,6 @@ permalink: /about/
 
 Between 2007 and 2014 I worked client-side in marketing and digital roles and volunteered as a digital consultant for an environmental agency. I oversaw the creation of some cool digital products but found this to be less satisfying over time as I was not the one making them.
 
-In 2014 I turned my programming hobby into a new career. After graduating from [Makers Academy](http://www.makersacademy.com) I joined the team at [Codurance](http://www.codurance.com) as one of their first Software Developer Apprentices. 
+In 2014 I turned my programming hobby into a new career. After graduating from [Makers Academy](http://www.makersacademy.com) I joined the team at [Codurance](http://www.codurance.com) as one of their first Software Craftsman Apprentices. 
 
-I'm currently part of the developer team helping to build [Crowdmix](http://www.crowdmix.me).
+To date I have worked on projects for [Amazon Web Services](http://awsloft.london), [Crowdmix](http://www.crowdmix.me) & [Coniq](www.coniq.com).
