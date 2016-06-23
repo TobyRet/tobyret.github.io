@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Single Responsibility Principle
-title: Some thoughts on the Single Responsibility Principle
+title: Some Thoughts on the Single Responsibility Principle
 date: 2016-06-23 10:00:00 +00:00
 author: Toby Retallick
 ---
