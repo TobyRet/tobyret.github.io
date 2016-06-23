@@ -1,6 +1,6 @@
 ---
 layout: post
-name: Single Responsibility Principle
+name: Single-Responsibility-Principle
 title: Some Thoughts on the Single Responsibility Principle
 date: 2016-06-23 10:00:00 +00:00
 author: Toby Retallick
@@ -22,7 +22,7 @@ What I would like to do is give some food for thought about the merits of applyi
 
 ### SRP and the link to responsibilities
 
-Being the first of the SOLID principles, SRP is perhaps at the fore-front of developers’ minds, particularly, as its definition is deceptively simple, in contrast to the other principles. Here though, lies the** first problem** with the SRP. Its own name makes a clear reference to responsibilities but the definition subsequently seems to bear a weak relationship to this. 
+Being the first of the SOLID principles, SRP is perhaps at the fore-front of developers’ minds, particularly, as its definition is deceptively simple, in contrast to the other principles. Here though, lies the **first problem** with the SRP. Its own name makes a clear reference to responsibilities but the definition subsequently seems to bear a weak relationship to this. 
 
 So what’s going on?
 
