@@ -6,8 +6,6 @@ date: 2014-3-1 18:31:00 +00:00
 author: Toby Retallick
 ---
 
-### This is the stuff that my dreams are made of!
-
 I'm only 10 days in and it's already started to happen...I've started dreaming about code. One night last week, after a day of learning more Ruby language fundamentals, I dreamt that I was writing a short code loop. Once I get to the end I am taken back to the beginning. I write the code again. I go back to the beginning. I write the code again. I go back to the beginning.
 
 *I'm trapped inside my own code loop.*

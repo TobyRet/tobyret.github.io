@@ -8,7 +8,7 @@ date: 2014-4-28 21:00:00 +00:00
 ## It's final project time
 So here I am ten weeks into my time at [Makers Academy](http://www.makersacademy.com). A surreal, enlightening, challenging and above all, amazing experience to say the least. The time has gone so quickly. I started learning the basics of the Ruby Programming Language. Now, I am building simple ecommerce platforms and providing users with the means to communicate with each other in real time using web sockets.The final stretch now lies ahead. Every student has two weeks to complete a final project, with graduation and presentations all set for May 9th 2014.
 
-###Meet Chartist
+### Meet Chartist
 I have teamed up with four other amazing students ([Anna](https://github.com/yan0va), [Nat](https://github.com/itsmurasaki), [Mikhail](https://github.com/duboff) and [Mario](https://github.com/mariogintili), ) to build *Chartist* - an app that will allow people to quickly visualize and share simple data. Think of it as *Pinterest for charts*...> *Chartist* - for those who want to share simple data online, but don't have the time.
 
 ### Kickoff

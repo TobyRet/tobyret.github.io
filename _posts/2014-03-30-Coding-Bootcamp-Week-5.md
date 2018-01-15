@@ -6,7 +6,7 @@ date: 2014-3-30 18:31:00 +00:00
 author: Toby Retallick
 ---
 
-###...And breathe.
+### ...And breathe.
 After last week's hard slog, it was a welcome relief to have the pace slow down ever so slightly, allowing me some mental and breathing space to complete outstanding bits and pieces on my projects, and spend time with my pregnant partner! Even though the workload was more manageable, the course content continued to move forward at a rapid pace.
 
 ### It's all coming together!
